@@ -132,6 +132,7 @@ body {
   border-radius: 12px;
   overflow: hidden;
   border: 1px solid #334155;
+  text-align: left;
 }
 
 .projects-container {
@@ -283,6 +284,7 @@ body::before {
 .timeline-item {
   position: relative;
   margin-bottom: 2rem;
+  text-align: left;
 }
 
 .timeline-item::before {
